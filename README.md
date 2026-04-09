@@ -1,0 +1,3 @@
+​Bem-vindo(a) ao meu portfólio de QA. Este repositório reúne meus estudos, documentações e projetos práticos focados em garantir a qualidade de software através de processos rigorosos de teste. Neste repositório, disponibilizei um guia completo de conceitos fundamentais que utilizo no meu dia a dia como QA: ​Tipos de Teste: Domínio em Testes Funcionais, Não Funcionais, Manuais e de Regressão.
+​Conceitos de Qualidade: Diferenciação clara entre Bug (falha no sistema), Defeito (desvio de comportamento) e Erro (falha humana na lógica).
+​Documentação Técnica: Elaboração de Planos de Teste, Casos de Teste e Relatórios de Erro.
